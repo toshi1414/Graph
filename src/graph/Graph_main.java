@@ -9,4 +9,4 @@ public class Graph_main {
     graph.setVisible(true);
 	}
 
-}
+} 
